@@ -1,0 +1,12 @@
+{"intents": [
+    {
+        "tag": "saudacao",
+        "patterns": ["Bom dia","boa tarde", "boa noite", "Salve!", "Ola", "Oi, tudo bem?", "Alo", "Tem alguem ai?"],
+        "responses": ["Oi, estou aqui", "Como posso te ajudar?", "Amigo, estou aqui", "Que bom te ver novamente"]
+    },
+    {
+        "tag": "despedida",
+        "patterns": ["Falou", "Tchau, boa noite", "Bons sonhos", "Tchau", "Adeus", "Ate mais!"],
+        "responses": ["Foi um prazer conversar com voce!", "ate mais!", "volte logo!", "Tchau, tchau!"]
+    }
+]}
